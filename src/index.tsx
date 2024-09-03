@@ -14,8 +14,8 @@ const SteamLevel: React.FC<SteamLevelProps> = (props) => {
     throw new Error("The level must be greater than 0");
   }
 
-  if (level > 6100) {
-    throw new Error("The level must be less than 6100");
+  if (level > 6199) {
+    throw new Error("The level must be less than 6199");
   }
 
   const getLevelClass = React.useCallback(
