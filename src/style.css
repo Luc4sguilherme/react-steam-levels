@@ -110,7 +110,16 @@
 .profileLevel.lvl_4900,
 .profileLevel.lvl_5000,
 .profileLevel.lvl_5100,
-.profileLevel.lvl_5200 {
+.profileLevel.lvl_5200,
+.profileLevel.lvl_5300,
+.profileLevel.lvl_5400,
+.profileLevel.lvl_5500,
+.profileLevel.lvl_5600,
+.profileLevel.lvl_5700,
+.profileLevel.lvl_5800,
+.profileLevel.lvl_5900,
+.profileLevel.lvl_6000,
+.profileLevel.lvl_6100 {
   border: none;
   border-radius: 0;
   background-repeat: no-repeat;
@@ -328,6 +337,42 @@
 
 .profileLevel.lvl_5200 {
   background-image: url("https://steamcommunity-a.akamaihd.net/public/shared/images/community/levels_halftone_3.png?v=2");
+}
+
+.profileLevel.lvl_5300 {
+  background-image: url("https://community.akamai.steamstatic.com/public/shared/images/community/levels_5300_dashes.png");
+}
+
+.profileLevel.lvl_5400 {
+  background-image: url("https://community.akamai.steamstatic.com/public/shared/images/community/levels_5400_crosshatch.png");
+}
+
+.profileLevel.lvl_5500 {
+  background-image: url("https://community.akamai.steamstatic.com/public/shared/images/community/levels_5500_spiral.png");
+}
+
+.profileLevel.lvl_5600 {
+  background-image: url("https://community.akamai.steamstatic.com/public/shared/images/community/levels_5600_leaves.png");
+}
+
+.profileLevel.lvl_5700 {
+  background-image: url("https://community.akamai.steamstatic.com/public/shared/images/community/levels_5700_mountain.png");
+}
+
+.profileLevel.lvl_5800 {
+  background-image: url("https://community.akamai.steamstatic.com/public/shared/images/community/levels_5800_rain.png");
+}
+
+.profileLevel.lvl_5900 {
+  background-image: url("https://community.akamai.steamstatic.com/public/shared/images/community/levels_5900_tornado.png");
+}
+
+.profileLevel.lvl_6000 {
+  background-image: url("https://community.akamai.steamstatic.com/public/shared/images/community/levels_6000_snowflake.png");
+}
+
+.profileLevel.lvl_6100 {
+  background-image: url("https://community.akamai.steamstatic.com/public/shared/images/community/levels_6100_crown.png");
 }
 
 .profileLevel.lvl_plus_0 {

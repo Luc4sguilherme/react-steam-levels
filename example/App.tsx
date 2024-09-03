@@ -12,7 +12,7 @@ function App() {
 
     const input = Number(event.target.value);
 
-    if (input < 0 || input > 5299) {
+    if (input < 0 || input > 6100) {
       return input;
     }
 
@@ -26,7 +26,7 @@ function App() {
         name="level"
         id="level"
         min={0}
-        max={5299}
+        max={6100}
         defaultValue={0}
         value={level}
         onChange={handleLevelChange}
